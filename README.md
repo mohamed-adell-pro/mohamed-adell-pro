@@ -1,6 +1,10 @@
 <!-- Profile README for Mohamed Adel -->
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0CF7E8&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Enthusiast;AI+%26+Data+Science+Student;Turning+Data+into+Insights" alt="Typing Animation"/>
+</p>
+
+<p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1100/1*OohqW5DGh9CQS4hLY5FXzA.gif" width="600"/>
 </p>
 
@@ -25,12 +29,9 @@
 
 ## 🛠️ Skills & Technologies
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js" /><br/>
-  <!-- DS & ML -->
-  <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch,sklearn" /><br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,anaconda" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
@@ -45,6 +46,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-adell-pro&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-adell-pro&theme=tokyo-night" alt="Activity Graph"/>
+</p>
+
 ---
 
 ## 🚀 Projects
@@ -56,7 +61,6 @@
 
 - 🏠 **House Price Prediction**  
   Linear Regression model for predicting house prices.  
-  🔹 Tools: Pandas, Matplotlib, Scikit-learn  
 
 - 🚗 **Car Price Prediction**  
   Simple regression model using multiple features.  
@@ -77,6 +81,13 @@
 
 ---
 
+## 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-adell-pro&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-adelll/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -91,4 +102,14 @@
 ## 🐍 Fun Part
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-adell-pro&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
 </p>
