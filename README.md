@@ -1,5 +1,9 @@
 <!-- Profile README for Mohamed Adel -->
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/1*OohqW5DGh9CQS4hLY5FXzA.gif" width="600"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Mohamed Adel</h1>
 
 <p align="center">
@@ -22,29 +26,11 @@
 ## 🛠️ Skills & Technologies
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-1f77b4?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-  <!-- ML & DL -->
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js" /><br/>
+  <!-- DS & ML -->
+  <img src="https://skillicons.dev/icons?i=anaconda,tensorflow,pytorch,sklearn" /><br/>
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -53,6 +39,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-adell-pro&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-adell-pro&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-adell-pro&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -79,12 +69,6 @@
 
 ---
 
-## 🎓 Education
-**Beni-Suef National University (BSNU)** — BSc in AI & Data Science  
-📍 Oct. 2023 – Present | Relevant Coursework: OOP, Data Structures, Databases, Statistics, Big Data, Networks  
-
----
-
 ## 📜 Certifications
 - 🏆 NTI & ITIDA – Machine Learning Track (2025)  
 - 🏆 Digital Egypt Pioneers Initiative (DEPI) – Data Science Track (In Progress, 2025)  
@@ -97,7 +81,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-adelll/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/mohamedadel00"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:mohamed.adell.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mohamedadell.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/mohamed-adell-pro"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://mohamed-adel-ramadan-s08tdzu.gamma.site/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Fun Part
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
