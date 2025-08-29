@@ -1,29 +1,28 @@
 <!-- Profile README for Mohamed Adel -->
 
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0CF7E8&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Enthusiast;AI+%26+Data+Science+Student;Turning+Data+into+Insights" alt="Typing Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/1*OohqW5DGh9CQS4hLY5FXzA.gif" width="600"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/MachineLearning.gif" width="800"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Mohamed Adel</h1>
 
 <p align="center">
-  🎓 Data Scientist | Machine Learning Enthusiast <br/>
-  💡 AI & Data Science Student @ Beni-Suef National University (Class of 2027) <br/>
-  📊 Passionate about transforming data into actionable insights
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0CF7E8&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Enthusiast;AI+Student;Turning+Data+into+Insights" alt="Typing Animation"/>
 </p>
 
 ---
 
 ## 🌟 About Me
+<p align="left">
+  <img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" align="right"/>
+</p>
+
 - 🔬 Strong foundation in **Python, Machine Learning, and Data Analysis**
 - 🤖 Experienced with **Deep Learning (CNNs, RNNs, Transfer Learning, NLP basics)**
 - 📈 Skilled in **EDA, Visualization, and Predictive Modeling**
 - 💼 Hands-on projects in **Computer Vision, Classification, and Regression**
-- 🌍 Based in Fayoum, Egypt
+- 🌍 Based in Fayoum, Egypt  
 
 ---
 
@@ -53,27 +52,38 @@
 ---
 
 ## 🚀 Projects
+<p align="left">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" align="right"/>
+</p>
+
 - 🐉 **Game of Thrones Character Survival Prediction**  
   Built a full ML pipeline to predict character survival.  
   🔹 Tools: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Keras  
   🔹 Models: Logistic Regression, Random Forest, CNN  
   🔹 Achieved **91.6% Accuracy**
 
-- 🏠 **House Price Prediction**  
-  Linear Regression model for predicting house prices.  
+- 🏠 **House Price Prediction** – Linear Regression model  
+- 🚗 **Car Price Prediction** – Multiple regression features  
+- 💳 **Credit Card Fraud Detection** – Naive Bayes & KNN  
+- 🩺 **Diabetes Prediction Model** – ML Classification model  
 
-- 🚗 **Car Price Prediction**  
-  Simple regression model using multiple features.  
+---
 
-- 💳 **Credit Card Fraud Detection**  
-  Classification problem using Naive Bayes & KNN.  
+## 🎓 Education
+<p align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-education-university-flaticons-lineal-color-flat-icons.png"/>
+</p>
 
-- 🩺 **Diabetes Prediction Model**  
-  Data preprocessing + ML classification model.
+**Beni-Suef National University (BSNU)** — BSc in AI & Data Science  
+📍 Oct. 2023 – Present | Relevant Coursework: OOP, Data Structures, Databases, Statistics, Big Data, Networks  
 
 ---
 
 ## 📜 Certifications
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+</p>
+
 - 🏆 NTI & ITIDA – Machine Learning Track (2025)  
 - 🏆 Digital Egypt Pioneers Initiative (DEPI) – Data Science Track (In Progress, 2025)  
 - 🏆 Sprints x Microsoft – AI & Machine Learning Summer Camp (2025)  
