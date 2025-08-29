@@ -36,6 +36,14 @@
 
 ---
 
+## 📚 Currently Learning <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40">
+- 🌱 Advanced **Deep Learning Architectures (Transformers, LSTMs)**  
+- 🌱 **MLOps & Model Deployment**  
+- 🌱 **Big Data Tools (Hadoop, Spark)**  
+- 🌱 Enhancing my skills in **Statistics & Data Engineering**  
+
+---
+
 ## 📊 GitHub Analytics 🔥
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-adell-pro&show_icons=true&theme=tokyonight" height="170"/>
@@ -81,4 +89,54 @@
 
 ---
 
-##
+## 📜 Certifications <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40">
+- 🏆 NTI & ITIDA – Machine Learning Track (2025)  
+- 🏆 DEPI – Data Science Track (2025)  
+- 🏆 Sprints x Microsoft – AI & Machine Learning Summer Camp (2025)  
+- 🏆 NVIDIA – Getting Started with Deep Learning (2025)  
+
+---
+
+## 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamed-adell-pro&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌍 Visitors Around the World
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mohamed-adell-pro/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/world-map?username=mohamed-adell-pro&theme=radical"/>
+</p>
+
+---
+
+## 🤖 AI Jokes Corner
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+---
+
+## 🌍 Connect with Me <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-adelll/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/mohamedadel00"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:mohamedadell.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/mohamed-adell-pro"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://mohamed-adel-ramadan-s08tdzu.gamma.site/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-adell-pro&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="AI Quote"/>
+</p>
